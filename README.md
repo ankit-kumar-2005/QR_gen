@@ -2,20 +2,6 @@
 
 This Python script allows users to generate QR codes for any URL they specify. It provides a simple command-line interface for inputting the URL and generates a PNG image containing the QR code.
 
-## Installation
-
-1. Clone the repository to your local machine:
-
-```
-git clone https://github.com/your_username/qr-code-generator.git
-```
-
-2. Install the required dependencies using pip:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Navigate to the project directory.
