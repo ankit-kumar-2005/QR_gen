@@ -9,7 +9,7 @@ This Python script allows users to generate QR codes for any URL they specify. I
 2. Run the script:
 
 ```
-python qr_code_generator.py
+python qr.py
 ```
 
 3. Enter the URL when prompted.
@@ -19,7 +19,7 @@ python qr_code_generator.py
 ## Example
 
 ```bash
-$ python qr_code_generator.py
+$ python qr.py
 Enter the URL: https://example.com
 QR code generated successfully!
 ```
